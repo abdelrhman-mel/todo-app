@@ -1,0 +1,6 @@
+/node_modules
+Dockerfile
+.env
+docker-compose*
+.vscode
+package-lock.json
