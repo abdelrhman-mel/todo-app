@@ -1,7 +1,0 @@
-/node_modules
-Dockerfile
-.env
-docker-compose*
-.vscode
-package*.json
-.dockerignore
